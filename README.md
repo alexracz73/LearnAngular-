@@ -1,2 +1,2 @@
 #### Video Tutorials
-* [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
+* [Angular 4 - The Basics] (https://youtu.be/htPYk6QxacQ)
